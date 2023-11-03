@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>EOS Limit Bypass</Name>
+  <Guid>f2d40981-c7ff-4c6a-90d6-30c7cbb4c89f</Guid>
+  <Repository>None</Repository>
+  <Version>v1.0.0</Version>
+</PluginManifest>
