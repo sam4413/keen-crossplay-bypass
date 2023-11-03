@@ -1,0 +1,1 @@
+Warning this has the possiblility to crash many xbox players if not used correctly. I dont claim any responsibility for any damage that might occur. Run at your own risk. Feel free to look and decompile the code using a decompiler like Jetbrains dotpeek, it isnt a complicated plugin.

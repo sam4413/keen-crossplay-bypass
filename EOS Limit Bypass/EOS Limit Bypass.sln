@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOS Limit Bypass", "EOS Limit Bypass.csproj", "{EAB7DF8C-35CE-49E8-B995-7D0CA46146DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB7DF8C-35CE-49E8-B995-7D0CA46146DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB7DF8C-35CE-49E8-B995-7D0CA46146DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB7DF8C-35CE-49E8-B995-7D0CA46146DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB7DF8C-35CE-49E8-B995-7D0CA46146DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64808175-375B-457F-B83E-B40E09F175F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Adam\Desktop\EOS Limit Bypass\bin\Debug\manifest.xml
+C:\Users\Adam\Desktop\EOS Limit Bypass\bin\Debug\EOS Limit Bypass.dll
+C:\Users\Adam\Desktop\EOS Limit Bypass\bin\Debug\EOS Limit Bypass.pdb
+C:\Users\Adam\Desktop\EOS Limit Bypass\bin\Debug\0Harmony.dll
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.g.resources
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS_Limit_Bypass.EOS_Limit_Bypass.Properties.Resources.resources
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.csproj.CopyComplete
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.dll
+C:\Users\Adam\Desktop\EOS Limit Bypass\obj\Debug\EOS Limit Bypass.pdb
+C:\Users\Adam\Desktop\torch-server-7\Plugins\EOS Bypass\manifest.xml
+C:\Users\Adam\Desktop\torch-server-7\Plugins\EOS Bypass\EOS Limit Bypass.dll
+C:\Users\Adam\Desktop\torch-server-7\Plugins\EOS Bypass\EOS Limit Bypass.pdb
