@@ -1,5 +1,9 @@
 # keen-crossplay-bypass
 Bypass keen's superimposed limits for EOS (Crossplay) servers! No longer shall you be limited to 3 planets or low sync range!<br>
+
+# !!!WARNING!!!
+## This plugin will only work on servers configured for **CROSSPLAY**! Loading this plugin on a steam server could lead to unintended consequences!
+
 **Please note this plugin is TORCH only. It will not work on vanilla Dedicated Server.**<br>
 Get it for yourself: https://torchapi.com/
 
